@@ -9,3 +9,7 @@ for(var b in window) {
 }
 
 it will list all variables lol
+
+override file list but maybe does nothing
+
+maybe use websockets for wallhack
