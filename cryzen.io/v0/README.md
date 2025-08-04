@@ -5,7 +5,7 @@ changed are commented with:
 
 hacks provided:
 427p crosshair
-lower ads fov
+lower ADS fov
 zero recoil
 
 note: you may need to hide your ip for the hacks to work
