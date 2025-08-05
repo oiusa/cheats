@@ -16,3 +16,5 @@ override file list but maybe does nothing
 maybe use websockets for wallhack
 
 block sniper-scope[whatever].webp
+
+AcFHbQ2Sv
