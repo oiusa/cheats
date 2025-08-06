@@ -18,3 +18,5 @@ maybe use websockets for wallhack
 block sniper-scope[whatever].webp
 
 EIx4DFO1b
+
+if the page does not load when dev tools are opened but it shows a "VM[xxx] play" file, try adding the "play" and "match-link" files to script block lists
