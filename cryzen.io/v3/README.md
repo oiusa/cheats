@@ -12,8 +12,14 @@ mod features:
 
 custom sniper scope
 
-top speed for EVERY weapon
+0 spread
 
-zero recoil
+0 recoil
 
-100% accuracy and precicion
+disabled blood when hitting other player
+
+disabled bullet cases coming out of gun
+
+high player speed (for all weapons)
+
+all ammo pool to one clip
