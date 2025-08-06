@@ -10,8 +10,6 @@ will be used to indicate that the line has been added ALWAYS immediately proceed
 
 mod features:
 
-custom sniper scope
-
 0 spread
 
 0 recoil
@@ -22,4 +20,8 @@ disabled bullet cases coming out of gun
 
 high player speed (for all weapons)
 
-all ammo pool to one clip
+all ammo pool to one clip for glock, shotgun, sniper, and ak
+
+enabled auto fire for glock, shotgun, and sniper
+
+0 swap time
