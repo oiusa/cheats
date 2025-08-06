@@ -25,3 +25,7 @@ all ammo pool to one clip for glock, shotgun, sniper, and ak
 enabled auto fire for glock, shotgun, and sniper
 
 0 swap time
+
+made slow walking z
+
+made crouching left shift
