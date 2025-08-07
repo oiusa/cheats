@@ -30,4 +30,6 @@ made slow walking z
 
 made crouching left shift
 
-see players at 240fps (not updated yet)
+see players at 240fps
+
+instant fov change when ads (0.1ms)
