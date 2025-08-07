@@ -29,3 +29,5 @@ enabled auto fire for glock, shotgun, and sniper
 made slow walking z
 
 made crouching left shift
+
+see players at 240fps (not updated yet)
