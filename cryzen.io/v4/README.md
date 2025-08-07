@@ -19,3 +19,5 @@ mod features:
 - no bullet cases & no blood splatter on hit
 
 added and removed lines (.js) are marked with //123
+
+if page doesn't load with devtools open, add "play" and "match-link" source files to script ignore list
